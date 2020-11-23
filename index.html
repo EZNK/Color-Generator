@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Color generator</title>
+    <link rel="icon" href="banner.png" type="image/x-icon">
+</head>
+<body>
+<script>
+     let letters = '0123456789ABCDEF';
+     let color = "#" + Math.random(letters).toString(16).slice(2,8);
+document.body.style.background = color; 
+</script>
+</body>
+</html>
