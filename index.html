@@ -4,13 +4,11 @@
     <meta charset="UTF-8">
     <title>Color generator</title>
     <link rel="icon" href="banner.png" type="image/x-icon">
+    <script src="color.js" defer></script>
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-    <script>
-        let letters = '0123456789ABCDEF';
-        let color = "#" + Math.random(letters).toString(16).slice(2,8);
-   document.body.style.background = color;
-   document.write(color)
-   </script>
+    <div id = "colorhex"></div>
+    <button id = "button"> Change Color </button>   
 </body>
 </html>
