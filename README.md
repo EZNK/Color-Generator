@@ -19,7 +19,7 @@
 ## Demonstration-RU
 #### [**Демонстрация работы**](https://coherent-quilled-pony.glitch.me/)
 #### [**Демонстрация работы API**](https://coherent-quilled-pony.glitch.me/api)
-### [EN] 🎆 HTML Color Generator
+# [EN] 🎆 HTML Color Generator
 ## Menu
 - [About repository](#About-EN)
 - [Install](#Install-EN)
