@@ -17,7 +17,8 @@
 Для запуска, а также работы сайта Вам понадобится [**Node.js**](https://nodejs.org/en/). Рекомендуем использовать последнюю доступную LTS версию.
 
 ## Demonstration-RU
-[**Демонстрация работы**](https://coherent-quilled-pony.glitch.me/)\n[**Демонстрация работы API**](https://coherent-quilled-pony.glitch.me/api)
+#### [**Демонстрация работы**](https://coherent-quilled-pony.glitch.me/)
+#### [**Демонстрация работы API**](https://coherent-quilled-pony.glitch.me/api)
 ### [EN] 🎆 HTML Color Generator
 ## Menu
 - [About repository](#About-EN)
@@ -38,4 +39,5 @@
 To run and work the site, you need [**Node.js**](https://nodejs.org/en/). We recommend using the latest available LTS version.
 
 ## Demonstration-EN
-[**Work Demonstration**](https://coherent-quilled-pony.glitch.me/)\n[**API Demonstration**](https://coherent-quilled-pony.glitch.me/api)
+#### [**Work Demonstration**](https://coherent-quilled-pony.glitch.me/)
+#### [**API Demonstration**](https://coherent-quilled-pony.glitch.me/api)
