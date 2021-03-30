@@ -10,8 +10,8 @@ app.get('/', (req, res) => {
 app.get('/api', (req, res) => {
     const letters = '0123456789ABCDEF';
     const color = "#" + Math.random(letters).toString(16).slice(2,8);
-    res.json({
-        "color": color
+    return res.status(200).send({
+        color: color
     })
 })
 
