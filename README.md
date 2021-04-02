@@ -10,9 +10,13 @@
 
 ## Install-RU
 **1.** Скопируйте репозиторий через сайт GitHub или командой `git clone https://github.com/Haloger7/Color-Generator.git`.
+
 **2.** Перейдите в директорию сайта и запустите консоль.
+
 **3.** Введите в консоль `npm i`.
+
 **4.** Запустите сайт с помощью `node .`.
+
 ### Requirements-RU
 Для запуска, а также работы сайта Вам понадобится [**Node.js**](https://nodejs.org/en/). Рекомендуем использовать последнюю доступную LTS версию.
 
@@ -31,8 +35,11 @@
 
 ## Install-EN
 **1.** Copy the repository through the GitHub site or with the command `git clone https://github.com/Haloger7/Color-Generator.git`.
+
 **2.** Go to the site directory and launch the console.
+
 **3.** Enter `npm i` into the console.
+
 **4.** Start the site with `node .`.
 
 ### Requirements-EN
